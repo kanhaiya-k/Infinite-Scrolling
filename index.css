@@ -1,0 +1,21 @@
+#divContent {
+  width: 50%;
+  align-items: center;
+  margin-left: 25%;
+
+  text-align: center;
+  border-radius: 20px;
+  border: 20px solid red;
+  font-size: large;
+  font-weight: bold;
+  padding: auto;
+}
+
+.item {
+  text-align: center;
+
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  margin-top: 5px;
+}
